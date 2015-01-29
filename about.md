@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: Hi, I'm engineer!
 permalink: /about/
 ---
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[high525jp@gmail.com](mailto:high525jp@gmail.com)
